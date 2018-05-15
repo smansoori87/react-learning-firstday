@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const headerStyle = {
-  text-align:center;
+  /* text-align:center;*/
 };
 
 class Header extends Component {
