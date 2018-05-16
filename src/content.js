@@ -9,7 +9,7 @@ class Content extends Component {
     return (
       <div>
         <h1>Body</h1>
-        <Details title="Cources Title" myCources={cources} />
+        <Details title="Cources Title" myCources={cources} defaultCount={9} />
       </div>
     );
   }
